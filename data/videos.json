@@ -1,0 +1,8 @@
+{
+  "videos": [
+    { "url": "http://www.foo.com/bar" },
+    { "url": "http://www.foo.com/bar1" },
+    { "url": "http://www.foo.com/bar2" },
+    { "url": "http://www.foo.com/bar3" }
+  ]
+}

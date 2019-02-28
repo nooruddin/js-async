@@ -1,0 +1,8 @@
+{
+  "tweets": [
+    { "content": "Hello" },
+    { "content": "World" },
+    { "content": "Javascript" },
+    { "content": "Async" }
+  ]
+}
